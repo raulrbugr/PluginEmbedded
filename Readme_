@@ -1,0 +1,2 @@
+This project contains a plugin architecture for embedded standalone systems.
+It is based on inheritance in C++ 
