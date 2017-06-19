@@ -1,2 +1,2 @@
-This project contains a plugin architecture for embedded standalone systems.
+This SDSoC project contains a plugin architecture for embedded standalone systems for a Zybo board.
 It is based on inheritance in C++ 
